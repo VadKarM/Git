@@ -127,10 +127,6 @@ git commit -m "описание изменения"
 ## Отправьте ветку в удалённый репозиторий командой 
 git push -u origin имя ветки в которую отправляем
 
-# Задание 1
-https://github.com/VadKarM/NeuroStartUp
-https://github.com/VadKarM/NeuroStartUp/tree/new-text
-https://github.com/VadKarM/git-2-homeworks-merge
 
 # Ключевые действия и команды при командной разработке
 ## Для обновления командного проекта на GitHub нужно использовать команду
@@ -148,3 +144,8 @@ git revert хеш коммита для отмены
 
 # Настроить .gitignore можно для папки и файла с помощью команды 
 git rm --cached имя-файла
+
+
+Задание 3 
+https://github.com/netology-code/git-2-homeworks-issues/issues/9247
+https://github.com/netology-code/git-2-homeworks-pr/pull/9242
