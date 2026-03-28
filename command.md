@@ -146,6 +146,3 @@ git revert хеш коммита для отмены
 git rm --cached имя-файла
 
 
-Задание 3 
-https://github.com/netology-code/git-2-homeworks-issues/issues/9247
-https://github.com/netology-code/git-2-homeworks-pr/pull/9242
